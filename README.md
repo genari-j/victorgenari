@@ -10,7 +10,7 @@ Na minha atual posição, trabalho em uma variedade de aplicações tanto no fro
 https://www.linkedin.com/in/joaogenari/ <br>
 
 <strong>Veja meu site:</strong> <br>
-https://genari-j.labsgn.com/ <br>
+https://labsgn.com/ <br>
 
 ## Contact •
 
@@ -22,7 +22,7 @@ https://genari-j.labsgn.com/ <br>
   <a href="mailto:victor.olr@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-EMAIL-05122A?style=flat&logo=minutemailer&logoColor=white"/>
   </a>
-  <a href="https://genari-j.labsgn.com/" target="_blank">
+  <a href="https://labsgn.com/" target="_blank">
     <img src="https://img.shields.io/badge/-PORTFOLIO-05122A?style=flat&logo=OpenProject&logoColor=white"/>
   </a>
 
