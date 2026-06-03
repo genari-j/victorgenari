@@ -33,10 +33,11 @@ https://labsgn.com/ <br>
 ## Analytics •
 
 <div align="center">
-  <a href="https://github.com/genari-j/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=genari-j&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genari-j&layout=compact&theme=dark"/>
-</div> <br>
+  <a href="https://github.com/genari-j">
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=genari-j&show_icons=true&theme=dark" />
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=genari-j&layout=compact&theme=dark" />
+  </a>
+</div>
 
 <hr>
 
